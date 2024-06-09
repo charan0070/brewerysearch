@@ -4,7 +4,7 @@ This is web application built by using React.js for the frontend and Node/Expres
 
 
 Features used:
-Login & Register using JWT.
-Fetching Data From API and Display it.
+Login & Register using JWT
+Fetching Data From API and Display it
 Have Search Filters with Name,City and Type
-Can Add Reviews on Details Page. 
+Can Add Reviews on Details Page
